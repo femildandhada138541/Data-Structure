@@ -1,5 +1,5 @@
 //92500588010
-//Write a program to perform above operations using doubly linked list
+//Write a program to perform above operations using circular singly linked list
 
 #include <stdio.h>
 #include <malloc.h>
