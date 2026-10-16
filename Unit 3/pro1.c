@@ -2,7 +2,7 @@
 
 //92500588010
 
-//Singly LinkedList
+//Write a program to perform above operations using singly linked list
 
 #include<stdio.h>
 #include<stdlib.h>
