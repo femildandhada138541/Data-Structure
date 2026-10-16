@@ -1,3 +1,6 @@
+//92500588010
+//Linear search
+
 #include<stdio.h>
 
 void main()
