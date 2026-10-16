@@ -1,3 +1,6 @@
+//92500588010
+//Write a program to create a binary tree . Traverse tree in preorder , postorder and inorder.
+
 #include<stdio.h>
 #include<stdlib.h>
 
